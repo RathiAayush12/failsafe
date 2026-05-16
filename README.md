@@ -50,7 +50,7 @@ failsafe/
 ### 1. Download Dataset
 
 Download `student-mat.csv` from:  
-https://www.kaggle.com/datasets/uciml/student-alcohol-consumption
+https://www.kaggle.com/datasets/dskagglemt/student-performance-data-set/data
 
 Place it at: `data/student-mat.csv`
 
